@@ -1,7 +1,7 @@
 [package]
 name = "dex"
 version = "0.1.0"
-description = "Created with Anchor"
+description = "A simple DEX program on Solana, built for fun to learn how decentralized exchanges work"
 edition.workspace = true
 rust-version.workspace = true
 
